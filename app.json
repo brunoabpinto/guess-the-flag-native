@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "guess-the-flag-native",
+    "name": "Flag Guesser",
     "slug": "guess-the-flag-native",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -19,7 +19,8 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.anonymous.guesstheflagnative"
     },
     "web": {
       "output": "static",
