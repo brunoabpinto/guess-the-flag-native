@@ -1,6 +1,6 @@
 # 🇺🇳 Flag Guesser — A React Flag Guessing Game
 
-This is the react native version of the [Flag Guesser](https://github.com/brunopinto/guess-the-flag) game.
+This is the react native version of the [Flag Guesser](https://github.com/brunoabpinto/guess-the-flag) game.
 
 A simple and fun React game to **guess the country from its flag**. Players are shown a random flag and must choose the correct country name. Great for learning geography and testing your flag knowledge!
 
